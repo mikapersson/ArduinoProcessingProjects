@@ -20,6 +20,11 @@ Two player game where potentiometers are used for moving discs with the goal of 
 
 + Detect the COM port automatically in Processing
 
++ Add background music
+
++ Add background image
++ Exchange the discs against baskets
+
 
 
 
