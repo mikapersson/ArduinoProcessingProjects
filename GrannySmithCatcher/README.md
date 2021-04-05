@@ -1,7 +1,7 @@
 # Granny Smith Catcher
 Two player game where potentiometers are used for moving discs with the goal of catching as many Granny Smith apples as possible.
 
-// GIF to be inserted
+https://user-images.githubusercontent.com/53935544/113566347-d1e2ae80-960c-11eb-8564-c7c750be22b1.mp4
 
 ## The Circuit
 
