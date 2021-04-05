@@ -23,6 +23,7 @@ Two player game where potentiometers are used for moving discs with the goal of 
   
 + Single player mode
 
++ Detect the COM port automatically in Processing
 
 
 
