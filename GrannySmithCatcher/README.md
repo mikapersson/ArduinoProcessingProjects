@@ -14,7 +14,14 @@ Two player game where potentiometers are used for moving discs with the goal of 
 
 + Introduce more fruits 
 
-+ Introduce a `restart game` option during gameplay. 
++ Introduce a `restart game` option during gameplay
+
++ Move `switch` state contents to methods outside `draw`
+
++ Use `width` and `height` in the positioning of all `draw` elements in order for the program
+    to be compatible with other screen sizes than my own :)
+  
++ Single player mode
 
 
 
