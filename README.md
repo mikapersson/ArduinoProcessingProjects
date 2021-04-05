@@ -4,5 +4,5 @@ To enable uploading through the Arduino IDE, remove the line `#include <Arduino.
 
 ## Demos
 ### Granny Smith Catcher (using two potentiometers)
-![grannysmithcatcher_demo](https://user-images.githubusercontent.com/53935544/113572473-8f26d380-9618-11eb-99c3-17bc62a81828.gif)
+![grannysmithcatcher_updated_demo](https://user-images.githubusercontent.com/53935544/113618874-88b84c00-9658-11eb-9910-5213193d1707.gif)
 
