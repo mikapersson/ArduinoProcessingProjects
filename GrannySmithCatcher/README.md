@@ -3,7 +3,7 @@ Two player game where potentiometers are used for moving discs with the goal of 
 
 ![gsc_demo](https://user-images.githubusercontent.com/53935544/114306988-04454d80-9ade-11eb-8c20-46e4ebc8da01.gif)
 
-## The Circuit
+## Wiring Diagram
 (Assumes that the power rail is connected all the way and not split into two halves)
 ![gsc_circuit](https://user-images.githubusercontent.com/53935544/113572093-dcef0c00-9617-11eb-8b9d-cd33b6af5228.png)
 
