@@ -1,7 +1,7 @@
 # Granny Smith Catcher
 Two player game where potentiometers are used for moving discs with the goal of maximizing one's score.
 
-![grannysmithcatcher_updated_demo](https://user-images.githubusercontent.com/53935544/113618573-2a8b6900-9658-11eb-835d-07dc2ac16207.gif)
+![gsc_demo](https://user-images.githubusercontent.com/53935544/114306988-04454d80-9ade-11eb-8c20-46e4ebc8da01.gif)
 
 ## The Circuit
 (Assumes that the power rail is connected all the way and not split into two halves)
