@@ -23,9 +23,6 @@ Two player game where potentiometers are used for moving discs with the goal of 
 
 + Add background music
 
-+ Add background image
-+ Exchange the discs against baskets
-
 
 
 
