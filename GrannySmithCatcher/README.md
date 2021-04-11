@@ -1,6 +1,6 @@
 # Granny Smith Catcher
 Two player game where potentiometers are used for moving discs with the goal of maximizing one's score.
-
+(Note that the player colors are mixed up..)
 ![gsc_demo](https://user-images.githubusercontent.com/53935544/114306988-04454d80-9ade-11eb-8c20-46e4ebc8da01.gif)
 
 ## Wiring Diagram
