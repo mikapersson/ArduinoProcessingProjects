@@ -1,0 +1,5 @@
+// Asteroid class
+
+class Asteroid{
+  
+}
