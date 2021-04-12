@@ -6,4 +6,3 @@ Inspired by Flappy Bird, fly the spaceship as far as possible into the galaxy, u
 
 ## Wiring Diagram
 
-## Future Improvements
