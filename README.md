@@ -3,7 +3,7 @@ The Arduino code may be written and uploaded through the [PlatformIO extension i
 To enable uploading through the Arduino IDE, remove the line `#include <Arduino.h>` in the `main.cpp` files and change the extension from `.cpp` to `.ino`. 
 
 ## Demos
-Some screen recording of the programs. Note that the demos don't look so nice as a consequence of the mp4 to gif conversion.
+Some screen recordings of the programs. Note that the demos don't look so nice as a consequence of the mp4 to gif conversion.
 ### Flappy Spaceship (using six photoresistors)
 ![flappyspaceship_demo](https://user-images.githubusercontent.com/53935544/114447716-f8878300-9bd2-11eb-8799-4135a58e618b.gif)
 
